@@ -4,16 +4,15 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/USERNAME">Telegram</a> •
-  <a href="mailto:you@example.com">Email</a> •
+  <a href="https://t.me/seresssha">Telegram</a> •
+  <a href="mailto:sergeyefimov23423@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/USERNAME/">LinkedIn</a>
 </p>
 
 ---
 
 ## 👨‍💻 О себе
-- Python-разработчик, фокус на backend
-- Интересно п
+- I love Ronaldo
 
 ## 🧰 Стек
 - Python/Go
@@ -27,7 +26,3 @@
 ## 📌 Проекты
 - **Project 1 — JWT на FastAPI** — base base  
   Репозиторий: https://github.com/USERNAME/project1
-
-## 📫 Контакты
-- Telegram: https://t.me/seresssha
-- Email: sergeyefimov23423@gmail.com
