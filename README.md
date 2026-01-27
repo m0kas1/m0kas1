@@ -20,8 +20,9 @@
 - PosgresQL
 - 
 
-## 🚀 Чем занимаюсь сейчас
-- 
+## 🚀 Education:
+- South Ural State University - susu.ru, 2025-2029, bachelor degree in Software Engineering
+- SQLAlchemy on sql-academy
 
 ## 📌 Проекты
 - **Project 1 — JWT на FastAPI** — base base  
