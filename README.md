@@ -1,1 +1,1 @@
-Junior Python Devoloper
+Junior Python Developer
