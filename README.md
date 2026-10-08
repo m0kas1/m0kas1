@@ -1,1 +1,1 @@
-Junior Python Developer
+Middle Go/Python Developer
