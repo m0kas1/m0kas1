@@ -1,4 +1,4 @@
-<h1 align="center">🐊 seresssha / coder </h1> 
+<h1 align="center">seresssha</h1> 
 
 ###
 
