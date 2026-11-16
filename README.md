@@ -1,4 +1,4 @@
-<h1 align="center">John Smoke</h1> 
+<h1 align="center">JOHN SMOKE 😶‍🌫️</h1> 
 
 ###
 
